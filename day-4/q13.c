@@ -18,5 +18,6 @@ int main ()
             printf("%d ",next);
             i++;
         }
+    return 0;
     }
         
